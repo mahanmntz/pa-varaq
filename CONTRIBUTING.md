@@ -1,6 +1,6 @@
 # Contributing
 
-Varaq is built for friends and small communities, so prefer **simple, low-friction** features over enterprise machinery. Read the [README](README.md) first: it explains the layout, the architecture rules and where each kind of change belongs.
+Pa-Varaq is built for friends and small communities, so prefer **simple, low-friction** features over enterprise machinery. Read the [README](README.md) first: it explains the layout, the architecture rules and where each kind of change belongs.
 
 ## Ground rules
 

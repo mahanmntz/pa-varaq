@@ -1,4 +1,4 @@
-# Varaq
+# Pa-Varaq (پاورق)
 
 Peer-to-peer lending of physical books for friends, campuses and local communities, plus a personal bookshelf tracker. Free and open source.
 
@@ -8,7 +8,7 @@ The product UI is entirely in **Persian (RTL, Vazirmatn)**. Code, comments, docs
 
 - **Global discovery** – every available book is visible and borrowable. Circles (campus, café, friend group) are only an optional filter.
 - **Personal library** – add books by scanning the ISBN barcode, typing the ISBN, or entering details by hand.
-- **External loans** – log a book lent to someone who is not on Varaq (name + due date) and get a WhatsApp reminder link.
+- **External loans** – log a book lent to someone who is not on Pa-Varaq (name + due date) and get a WhatsApp reminder link.
 - **Loan flow with a 4-digit PIN handshake** – request → approve → hand over → return, with the physical condition logged at both ends.
 - **Karma tokens** – lending earns a token, borrowing locks one until the book is back.
 - **Book Passport** – every physical copy has a timeline; each borrower can leave a one-sentence memory after returning it.
